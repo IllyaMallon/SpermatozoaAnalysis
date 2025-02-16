@@ -1,44 +1,51 @@
 🚀 Spermatozoa Analyzer
+
 Computer Vision-Based Sperm Tracking & Motility Analysis
-Spermatozoa Analyzer is a computer vision-based tool for automated sperm tracking and motility analysis. Using OpenCV, TensorFlow, and Tkinter, it detects, tracks, and evaluates sperm movement from video, providing key fertility metrics (VCL, VSL, VAP, LIN, PPM). Features real-time visualization, reporting, and UI-based calibration.
+<br>Spermatozoa Analyzer is a computer vision-based tool for automated sperm tracking and motility analysis. Using OpenCV, TensorFlow, and Tkinter, it detects, tracks, and evaluates sperm movement from video, providing key fertility metrics (VCL, VSL, VAP, LIN, PPM). <br>Features real-time visualization, reporting, and UI-based calibration.
 
-🧐 What's Inside the App?
-🎥 Video Processing
-✅ Loads and preprocesses video frames
-✅ Converts to grayscale, applies thresholding, and removes noise
-✅ Uses background subtraction for better detection
+<br>What's Inside the App?
 
-📍 Sperm Detection & Tracking
-✅ Identifies sperm using contour detection
-✅ Tracks movement across frames with Kalman filters
-✅ Assigns unique colors to each tracked sperm
+<br>🎥 Video Processing
+<br>✅ Loads and preprocesses video frames
+<br>✅ Converts to grayscale, applies thresholding, and removes noise
+<br>✅ Uses background subtraction for better detection
 
-📊 Motion & Velocity Analysis
-✅ Computes key sperm motility metrics:
+<br>📍 Sperm Detection & Tracking
+<br>✅ Identifies sperm using contour detection
+<br>✅ Tracks movement across frames with Kalman filters
+<br>✅ Assigns unique colors to each tracked sperm
 
-VCL (Curvilinear Velocity)
-VSL (Straight-Line Velocity)
-VAP (Average Path Velocity)
-LIN, WOB, STR (Movement quality)
-✅ Determines Percent Progressive Motility (PPM)
-📈 Statistical Evaluation & Reporting
-✅ Categorizes sperm motility into:
+<br>📊 Motion & Velocity Analysis
+<br>✅ Computes key sperm motility metrics:
 
-Not Motile, Low, Moderate, High Motility
+* VCL (Curvilinear Velocity)
+* VSL (Straight-Line Velocity)
+* VAP (Average Path Velocity)
+* LIN, WOB, STR (Movement quality)
+
+<br>📈 Statistical Evaluation & Reporting
+<br>✅ Determines Percent Progressive Motility (PPM)
+<br>✅ Categorizes sperm motility into:
+* Not Motile
+* Low
+* Moderate
+* High Motility
+
 ✅ Provides health scores based on fertility standards
-✅ Generates text-based reports
-🖥️ UI & User Interaction (Tkinter-Based)
-✅ Manual scale calibration using a drawing tool
-✅ Supports zooming & panning for better visualization
-✅ Displays real-time processed video & statistics
+<br>✅ Generates text-based reports
 
-📡 Grid-Based Analysis
-✅ Applies a grid overlay to divide the sample area
-✅ Ensures accurate sperm count estimations
+<br>🖥️ UI & User Interaction (Tkinter-Based)
+<br>✅ Manual scale calibration using a drawing tool
+<br>✅ Supports zooming & panning for better visualization
+<br>✅ Displays real-time processed video & statistics
 
-🛠 Tech Stack
-Python (Core Logic)
-OpenCV (Computer Vision & Image Processing)
-TensorFlow (ML-Based Tracking & Analysis)
-Tkinter (GUI for Calibration & Visualization)
-NumPy, SciPy (Data Handling & Mathematical Calculations)
+<br>📡 Grid-Based Analysis
+<br>✅ Applies a grid overlay to divide the sample area
+<br>✅ Ensures accurate sperm count estimations
+
+<br>🛠 Tech Stack
+* Python (Core Logic)
+* OpenCV (Computer Vision & Image Processing)
+* TensorFlow (ML-Based Tracking & Analysis)
+* Tkinter (GUI for Calibration & Visualization)
+* NumPy, SciPy (Data Handling & Mathematical Calculations)
