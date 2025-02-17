@@ -6,9 +6,8 @@ Computer Vision-Based Sperm Tracking & Motility Analysis
 ## 🎥 Demo  
 Below is a short demo of the Spermatozoa Analyzer in action:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/47c0f61c-8a2a-45b3-8a3f-55fb5822870e" alt="Spermatozoa Analyzer Demo" width="1000">
-</p>
+https://github.com/user-attachments/assets/ef06721e-287e-412e-bc5a-fddfadb2f197
+
 
 ## What's Inside the App?
 
@@ -37,6 +36,10 @@ Below is a short demo of the Spermatozoa Analyzer in action:
 * Low
 * Moderate
 * High Motility
+
+
+
+
 
 
 ✅ Provides health scores based on fertility standards
