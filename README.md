@@ -9,7 +9,7 @@ Below is a short demo of the Spermatozoa Analyzer in action:
 https://github.com/user-attachments/assets/ef06721e-287e-412e-bc5a-fddfadb2f197
 
 
-## What's Inside the App?
+## What's Inside the App Prototype?
 
 <br>🎥 Video Processing
 <br>✅ Loads and preprocesses video frames
@@ -37,11 +37,6 @@ https://github.com/user-attachments/assets/ef06721e-287e-412e-bc5a-fddfadb2f197
 * Moderate
 * High Motility
 
-
-
-
-
-
 ✅ Provides health scores based on fertility standards
 <br>✅ Generates text-based reports
 
@@ -60,3 +55,16 @@ https://github.com/user-attachments/assets/ef06721e-287e-412e-bc5a-fddfadb2f197
 * TensorFlow (ML-Based Tracking & Analysis)
 * Tkinter (GUI for Calibration & Visualization)
 * NumPy, SciPy (Data Handling & Mathematical Calculations)
+
+## Sperm Analysis System - Future Concept
+Click for Software Architecture Doc: [SpermatozoaAnalyzerFutureConcept.pdf](https://github.com/user-attachments/files/18855409/SpermatozoaAnalyzerFutureConcept.pdf)
+
+## Reference Links 
+Alabdulla, A. H., Haşıloğlu, A., & Aksu, E. H. (2021). A robust sperm cell tracking algorithm using uneven lighting image fixing and improved branch and bound algorithm. IET Image Processing, 15(9), 2068–2079. https://doi.org/10.1049/ipr2.12178
+
+Kheirkhah, F. M., Mohammadi, H. R. S., & Shahverdi, A. (2019). Efficient and robust segmentation and tracking of sperm cells in microscopic image sequences. IET Computer Vision, 13(5), 489–499. https://doi.org/10.1049/iet-cvi.2018.5662
+
+Rodríguez-Montaña, D., & Roa, E. (2017). Objective assessment of bull sperm motility parameters using computer vision algorithms. African Journal of Biotechnology, 16(37), 1871–1881. https://doi.org/10.5897/AJB2017.16122
+
+
+
