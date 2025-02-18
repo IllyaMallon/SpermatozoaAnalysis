@@ -8,6 +8,14 @@ Below is a short demo of the Spermatozoa Analyzer in action:
 
 https://github.com/user-attachments/assets/ef06721e-287e-412e-bc5a-fddfadb2f197
 
+### Legend
+
+| **Color**          | **Description**               |
+|---------------------|-------------------------------|
+|  **Green**        | Moving Spermatozoa            |
+|  **Red**          | Non-Moving Spermatozoa        |
+|  **White**        | Collisions Between Spermatozoa|
+| **Coloured Lines**  | Spermatozoa Tracks            |
 
 ## What's Inside the App Prototype?
 
