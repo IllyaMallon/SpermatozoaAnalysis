@@ -1,7 +1,8 @@
 ## Spermatozoa Analyzer
 
 Computer Vision-Based Sperm Tracking & Motility Analysis
-<br>Spermatozoa Analyzer is a computer vision-based tool for automated sperm tracking and motility analysis. Using OpenCV, TensorFlow, and Tkinter, it detects, tracks, and evaluates sperm movement from video, providing key fertility metrics (VCL, VSL, VAP, LIN, PPM). <br>Features real-time visualization, reporting, and UI-based calibration.
+<br>Spermatozoa Analyzer is a computer vision-based tool for automated sperm tracking and motility analysis. Using OpenCV, TensorFlow, and Tkinter, it detects, tracks, and evaluates sperm movement from video, providing key fertility metrics (VCL, VSL, VAP, 
+LIN, WOB, STR, BCF, ALH, PPM). <br>Features real-time visualization, reporting, and UI-based calibration.
 
 ## 🎥 Demo  
 Below is a short demo of the Spermatozoa Analyzer in action:
