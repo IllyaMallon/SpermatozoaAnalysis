@@ -35,6 +35,7 @@ https://github.com/user-attachments/assets/ef06721e-287e-412e-bc5a-fddfadb2f197
 * VCL (Curvilinear Velocity)
 * VSL (Straight-Line Velocity)
 * VAP (Average Path Velocity)
+
 * LIN, WOB, STR (Movement quality)
 
 <br>📈 Statistical Evaluation & Reporting
@@ -63,9 +64,6 @@ https://github.com/user-attachments/assets/ef06721e-287e-412e-bc5a-fddfadb2f197
 * TensorFlow (ML-Based Tracking & Analysis)
 * Tkinter (GUI for Calibration & Visualization)
 * NumPy, SciPy (Data Handling & Mathematical Calculations)
-
-## Sperm Analysis System - Future Concept
-Click for Software Architecture Doc: [SpermatozoaAnalyzerFutureConcept.pdf](https://github.com/user-attachments/files/18855409/SpermatozoaAnalyzerFutureConcept.pdf)
 
 ## Reference Links 
 Alabdulla, A. H., Haşıloğlu, A., & Aksu, E. H. (2021). A robust sperm cell tracking algorithm using uneven lighting image fixing and improved branch and bound algorithm. IET Image Processing, 15(9), 2068–2079. https://doi.org/10.1049/ipr2.12178
